@@ -235,10 +235,10 @@ Here's an example web endpoint that makes a session:
 
 See `TestBasicCRUD`.
 
-- (INSERT)[https://github.com/gocraft/dbr/blob/master/insert_test.go]
-- (SELECT)[https://github.com/gocraft/dbr/blob/master/select_test.go]
-- (UPDATE)[https://github.com/gocraft/dbr/blob/master/update_test.go]
-- (DELETE)[https://github.com/gocraft/dbr/blob/master/delete_test.go]
+- [INSERT](https://github.com/gocraft/dbr/blob/master/insert_test.go)
+- [SELECT](https://github.com/gocraft/dbr/blob/master/select_test.go)
+- [UPDATE](https://github.com/gocraft/dbr/blob/master/update_test.go)
+- [DELETE](https://github.com/gocraft/dbr/blob/master/delete_test.go)
 
 ### Overriding Column Names With Struct Tags
 
